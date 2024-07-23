@@ -20,10 +20,11 @@ I am Damanpreet kaur.I passout my +2 from meritorious school ludhiana. I am pers
 
 ![certificate](IMG-20240723-WA0001.jpg)
 
-i recently completed my excel course from www.greatlearning.com.it gas great experience to work on it.It provides great knowledge about excel.
+I recently completed my excel course from www.greatlearning.com It has great experience to work on it.It provides great knowledge about excel.
 
 # About Excel
-Excel is powerful spreadsheet application developed by Microsoft.it's  widely used for organizing, analyzing and visualizing data through grids of cells arranged in rows and columns.Excel allows users to perform calculations,create charts, manage data,and automate tasks using formulas and function.some key features and uses of excel.
+Excel is powerful spreadsheet application developed by Microsoft.it's  widely used for organizing, analyzing and visualizing data through grids of cells arranged in rows and columns.Excel allows users to perform calculations,create charts, manage data,and automate tasks using formulas and function.
+# uses and features of excel.
 
 1. spreadsheet basics: Excel organizes data into grids of cells where each cell can contain text,numbers, formulas.
 2. formulas and functions: Excel real power lies in its ability to perform calculations using formulas and build in functions ( eg. SUM, AVERAGE)
