@@ -22,4 +22,4 @@ I am Damanpreet kaur.I passout my +2 from meritorious school ludhiana. I am pers
 
 
 # About Excel
-Excel is powerful spreadsheet application developed by Microsoft.
+Excel is powerful spreadsheet application developed by Microsoft.it's  widely used for organizing, analyzing and visualizing data through grids of cells arranged in rows and columns.Excel allows users to perform calculations,create charts, manage data,and automate tasks using formulas and functions.
