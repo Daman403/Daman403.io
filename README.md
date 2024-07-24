@@ -57,4 +57,11 @@ he also gave us formula of success:
 2. persistence
 3. patience
 
+**Dr.HS rai**
+Dr. H.S.rai, the controller of Examinations,shared his views that exams are opportunities to shine.He also talked about his journey to thd Google Summer of Code with his students.
 
+# Day 3 at GNDEC
+On the thid day of the induction program we atted classes.
+
+**UHV class**
+In our first UHV class,we began to indro
