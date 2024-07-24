@@ -33,3 +33,10 @@ Excel is powerful spreadsheet application developed by Microsoft.it's  widely us
 5. Templates: Its offer pre-designed templates for various purposes that userscam customize to meet specific needs.
 
 THANK YOU
+
+# My First day experience in Gndec college 
+
+I was so nervous 9 july 2024 was the first of my college. The day start with the spiritual prayer( paath) that gives me positive vibes.After the gurudwara sahib. We went to auditorium. At auditorium Dr.SB Singh ( retired principal),Dr.Sehajpal Singh( current principal), IAS Harleen Parmar( chief guest) motivated us.She is alumni of this college. She said to succeed in life and learn yo travel alone , learn to manage money.Dr.SB sir said that there is no organisation or corner where gne student is not present.Dr.shajpal Singh said engineering is the art of solving problems.
+
+# Second day at GNDEC
+
