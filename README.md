@@ -42,13 +42,13 @@ I was so nervous 9 july 2024 was the first of my college. The day start with the
 
 On secong day Dr. Arvind Dhingra sir guided us and they said
 
-types of membership:
+**types of membership**
 1. Member
 2. Active member
 3. Executive member
 4. Officer bearer
 
-types of societies:
+**types of societies**
 1. National body accociated
 2. Department level accociated
 
