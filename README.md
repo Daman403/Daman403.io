@@ -40,3 +40,5 @@ I was so nervous 9 july 2024 was the first of my college. The day start with the
 
 # Second day at GNDEC
 
+On secong day Dr. Arvind Dhingra sir guided us and they said
+
